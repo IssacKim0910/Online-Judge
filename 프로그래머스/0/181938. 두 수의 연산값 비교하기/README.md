@@ -1,6 +1,6 @@
 # [level 0] 두 수의 연산값 비교하기 - 181938 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181938?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181938?language=python3#) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 2월 2일 21:34:30
+2024년 2월 2일 21:36:24
 
 ### 문제 설명
 
