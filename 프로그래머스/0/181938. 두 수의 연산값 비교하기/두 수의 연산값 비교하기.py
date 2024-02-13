@@ -7,6 +7,7 @@ def solution(a, b):
         answer = 2*a*b
     return answer
 
+
 #다른 풀이
 def solution(a, b):
     return max(int(str(a) + str(b)), 2 * a * b)
